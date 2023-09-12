@@ -1,0 +1,21 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(¤Ã–Ú8˜ü—á¥1
+X	java:S125"<This block of commented-out lines of code should be removed.(ŒÔ©Å8­¤™á¥1
+]	java:S125"<This block of commented-out lines of code should be removed.(¼è÷ïøÿÿÿÿ8úÚ™á¥1
+]	java:S125%"<This block of commented-out lines of code should be removed.(¼è÷ïøÿÿÿÿ8“ˆšá¥1
+]	java:S125*"<This block of commented-out lines of code should be removed.(ƒÒğÃøÿÿÿÿ8±­šá¥1
+]	java:S1250"<This block of commented-out lines of code should be removed.(Ú±Ãìûÿÿÿÿ8ƒèšá¥1
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(­¸¤Êúÿÿÿÿ8Öå…íÑ0
+V
+java:S1128"9Remove this unused import 'com.idsoftware.people.People'.(šù’‹8‰èšá¥1
+R
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ8Šèšá¥1
+J
+java:S1128"-Remove this unused import 'java.time.Period'.(šÉ¢½8Œèšá¥1
+U
+java:S1128"8Remove this unused import 'java.util.function.Function'.(»³Í8èšá¥1
+V
+java:S1128	"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶8èšá¥1
+Z
+java:S1128
+"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8èšá¥1

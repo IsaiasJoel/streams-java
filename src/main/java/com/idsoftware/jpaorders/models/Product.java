@@ -1,11 +1,8 @@
-package com.idsoftware.products;
+package com.idsoftware.jpaorders.models;
 
-import com.idsoftware.jpaorders.models.Order;
 import jakarta.persistence.*;
 import lombok.*;
 
-import java.util.Arrays;
-import java.util.List;
 import java.util.Set;
 
 @Builder

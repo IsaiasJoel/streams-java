@@ -1,10 +1,4 @@
 
-_
-/src/main/java/com/idsoftware/people/People.java,9\d\9d8bd2e074729ad03682778cdc4d1b2f42c53b04
-f
-6src/main/java/com/idsoftware/sqlequivalents/Tupla.java,d\8\d83cafbcf24d953733192afa5c46951795de338d
-c
-3src/main/java/com/idsoftware/people/PeopleMain.java,5\9\590ce4008abd97c09382047e74c1041154aec8f9
 `
 0src/main/java/com/idsoftware/courses/Course.java,0\6\067eaeda6a4f7245b3417fa855f900a210f49108
 h
@@ -21,6 +15,8 @@ m
 =src/main/java/com/idsoftware/jpaorders/repos/ProductRepo.java,5\9\599d68712413872f3de20f68469aaf0b354a154c
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+b
+2src/main/java/com/idsoftware/products/Product.java,f\1\f170e7b01bb85bccd430b9c12d52c4e9dce0bbf3
 h
 8src/main/java/com/idsoftware/jpaorders/models/Order.java,6\0\60dfa73727b8a305903f8ee30338f0161579530c
 j
@@ -29,8 +25,6 @@ g
 7src/main/java/com/idsoftware/products/ProductsMain.java,d\d\dd2f2f9ad860839330d333f13854b5172add5264
 n
 >src/main/java/com/idsoftware/jpaorders/repos/CustomerRepo.java,2\c\2c3449405cfa446068cb1a77c885a0999c0932af
-b
-2src/main/java/com/idsoftware/products/Product.java,f\1\f170e7b01bb85bccd430b9c12d52c4e9dce0bbf3
 k
 ;src/main/java/com/idsoftware/jpaorders/models/Customer.java,e\d\ed86aba446f18f8f6981d9daa3545b182d18f8cc
 c
